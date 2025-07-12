@@ -4,6 +4,9 @@
 
 This Power BI dashboard visualizes sales performance for a café, highlighting key metrics like revenue, item popularity, and customer purchasing trends. The goal is to provide actionable insights to support decision-making in pricing, inventory, and marketing.
 
+<img width="882" height="508" alt="Sales_dashboard" src="https://github.com/user-attachments/assets/cc92b48b-bf39-420f-ab7a-543c0ae08157" />
+
+
 ##  Data Cleaning (Performed in MySQL + Power BI)
 
 - Removed duplicates and irrelevant entries
